@@ -1,7 +1,7 @@
 # Part2
 
 # Weather App
-This application fetches weather data from an external API and allows users to retrieve weather information for a specific date in Delhi, India with helo of local database.
+This application fetches weather data from an external API and allows users to retrieve weather information for a specific date in Delhi, India with help of local database.
 
 # Usage
 - Click on the "Save Weather Data from API" button to fetch and save weather data from the API to local Database.
